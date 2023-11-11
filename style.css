@@ -14,12 +14,13 @@
 .footer{
     position: fixed;
     bottom: 0;
-    background-color: lightskyblue;
+    background-color: crimson;
     width: 100%;
     text-align: center;
     line-height: 3;
     font-family: "georgia";
     font-weight: bold;
+    color:white;
 }
 
 canvas{
